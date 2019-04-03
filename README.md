@@ -5,7 +5,7 @@ Easy-to-use message board! Add and remove notes saved on your local storage.
 HTML, SCSS, Javascript, Bootstrap
 
 ## Screenshot:
-![screenshot](README.md)
+![screenshot](images\screenshot.png)
 
 ## Getting Started
 no additional installs
