@@ -49,9 +49,9 @@ body .container-fluid .row .col form[name="task"] .new_note {
   background-size: cover;
   display: block;
   margin: auto;
-  padding: 10px;
-  width: 375px;
-  height: 240px;
+  padding: 1rem;
+  width: 19rem;
+  height: 16rem;
   margin-top: 10px;
 }
 
@@ -139,9 +139,9 @@ body .container-fluid .row .col form[name="task"] .new_note div#message-containe
 }
 
 body .container-fluid .row .col form[name="task"] #tasksContainer {
-  width: 94%;
-  height: 52%;
-  margin-left: 34px;
+  width: 61rem;
+  height: 25rem;
+  margin-left: -2rem;
   margin-top: 5px;
 }
 
